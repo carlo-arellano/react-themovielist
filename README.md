@@ -1,16 +1,58 @@
-# React + Vite
+# Project Title
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TheMovieList ReactJS app
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Simple ReactJS project to showcase movie list from TMDB API.
 
-## React Compiler
+## Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Dependencies
 
-## Expanding the ESLint configuration
+- Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+- ex. Windows 10
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Installing
+
+- How/where to download your program
+- Any modifications needed to be made to files/folders
+
+### Executing program
+
+- How to run the program
+- Step-by-step bullets
+
+```
+code blocks for commands
+```
+
+## Help
+
+Any advise for common problems or issues.
+
+```
+command to run if program contains helper info
+```
+
+## Authors
+
+Contributors names and contact info
+
+## Version History
+
+- 0.2
+  - Various bug fixes and optimizations
+  - See [commit change]() or See [release history]()
+- 0.1
+  - Initial Release
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+
+- [sample-link](https://website.link)
